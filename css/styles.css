@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
 :root {
-  --dark-one: #333;
-  --dark-two: #7a7a7a;
-  --main-color: rgb(76, 193, 251);
+  --dark-one: #fbfbfb;
+  --dark-two: #ffffff;
+  --main-color: rgb(72, 194, 224);
   --light-one: #fff;
 
 
@@ -154,7 +154,7 @@ img {
   display: inline-block;
   padding-bottom: 1rem;
   line-height: 1;
-  font-size: 2.8rem;
+  font-size: 3.1rem;
   margin-bottom: 0.6rem;
 }
 
@@ -209,7 +209,7 @@ img {
 }
 
 .btn:hover {
-  background-color: #6b44e0;
+  background-color: #000000;
 }
 
 .btn.small {
@@ -229,7 +229,7 @@ header {
 }
 
 nav {
-  width: 100%;
+  width: 82%;
   position: relative;
   z-index: 50;
 }
