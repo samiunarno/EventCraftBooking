@@ -3,7 +3,7 @@
 :root {
   --dark-one: #fbfbfb;
   --dark-two: #ffffff;
-  --main-color: rgb(72, 194, 224);
+  --main-color: rgb(0, 0, 0);
   --light-one: #fff;
 
 
@@ -209,7 +209,7 @@ img {
 }
 
 .btn:hover {
-  background-color: #000000;
+  background-color: #0dc100;
 }
 
 .btn.small {
